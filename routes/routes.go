@@ -1,4 +1,4 @@
-package routs
+package routes
 
 import (
 	"REST_PROJECT/middlewares"
