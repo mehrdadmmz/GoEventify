@@ -72,7 +72,7 @@ REST_PROJECT/
 │   ├── event.go             # Event model and methods
 │   └── register.go          # Event registration logic
 │
-├── routs/
+├── routes/
 │   ├── routs.go             # Main router registration
 │   ├── users.go             # Handlers for user signup, login
 │   ├── events.go            # Handlers for event CRUD
