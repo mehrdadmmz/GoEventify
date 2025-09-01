@@ -1,5 +1,12 @@
 # GoEventify 
 
+![Go](https://img.shields.io/badge/Go-1.18+-00ADD8?logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Framework-Gin-red?logo=go)
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite)
+![JWT](https://img.shields.io/badge/Auth-JWT-yellow)
+![Bcrypt](https://img.shields.io/badge/Security-Bcrypt-lightgrey)
+
+
 A lightweight **RESTful API** written in Go for creating and managing events. Built with the [Gin Web Framework](https://github.com/gin-gonic/gin) and a SQLite database, this project supports:
 
 - **User registration & login**  
